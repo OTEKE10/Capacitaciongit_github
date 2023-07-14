@@ -1,2 +1,2 @@
 # Capacitaciongit_github
-PRACTICA 1
+PRACTICA 1 PRINCIPAL
